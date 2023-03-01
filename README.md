@@ -1,0 +1,1 @@
+# Sentimentos-de-Textos
